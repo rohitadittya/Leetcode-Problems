@@ -27,7 +27,7 @@ Output: [1,2]
 Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
 */
 
-public class Two_Sum_II_167 {
+public class LC167_Two_Sum_II {
     public int[] twoSum(int[] numbers, int target) {
         int stPt = 0, endPt = numbers.length - 1;
         int[] res = {};

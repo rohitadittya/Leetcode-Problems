@@ -20,7 +20,7 @@ package Arrays.Iteration;
     Input: nums = [0]
     Output: [0]
  */
-public class Moving_zeroes_283 {
+public class LC283_Moving_zeroes {
     public void moveZeroes(int[] nums) {
         int zeroPtr = 0, numPtr = 0;
         for (int i = 0; i < nums.length; i++) {

@@ -30,7 +30,7 @@ package Arrays.Iteration;
     Output: 0
     Explanation: There is no way to make a positive profit, so we never buy the stock to achieve the maximum profit of 0.
  */
-public class BestTimeToBuyStocks_122 {
+public class LC122_BestTimeToBuyStocks {
 
     public int maxProfit(int[] prices) {
         int profit = 0;

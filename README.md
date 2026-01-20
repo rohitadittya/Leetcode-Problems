@@ -11,12 +11,12 @@
 ### Iteration
 
 #### Easy
-- [Moving Zeroes](./Arrays/Iteration/Moving_zeroes_283.java)
+- [Moving Zeroes](./Arrays/Iteration/LC283_Moving_zeroes.java)
 
 #### Medium
-- [Two Sum](./Arrays/Iteration/Two_Sum_II_167.java)
-- [Best Time to Buy and Sell Stock](./Arrays/Iteration/BestTimeToBuyStocks_122.java)
-- [Rotate Array By K](./Arrays/Iteration/ArrayRotateByK_189.java)
+- [Two Sum](./Arrays/Iteration/LC167_Two_Sum_II.java)
+- [Best Time to Buy and Sell Stock](./Arrays/Iteration/LC122_BestTimeToBuyStocks.java)
+- [Rotate Array By K](./Arrays/Iteration/LC189_ArrayRotateByK.java)
 
 ---
 

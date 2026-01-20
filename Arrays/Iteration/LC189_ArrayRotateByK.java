@@ -23,7 +23,26 @@ package Arrays.Iteration;
     rotate 1 steps to the right: [99,-1,-100,3]
     rotate 2 steps to the right: [3,99,-1,-100]
 
-*/
-public class ArrayRotateByK_189 {
-    
+ */
+public class LC189_ArrayRotateByK {
+
+    public void reverse(int[] nums, int st, int end) {
+        while (st < end) {
+            int temp = nums[st];
+            nums[st] = nums[end];
+            nums[end] = temp;
+            st++;
+            end--;
+        }
+    }
+
+    public void rotate(int[] nums, int k) {
+        if (nums.length <= 1) {
+            return;
+        }
+        k = k % nums.length;
+        reverse(nums, 0, nums.length - 1);
+        reverse(nums, 0, k - 1);
+        reverse(nums, k, nums.length - 1);
+    }
 }
