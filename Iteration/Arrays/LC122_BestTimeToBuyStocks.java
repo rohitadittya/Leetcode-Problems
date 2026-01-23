@@ -1,4 +1,4 @@
-package Arrays.Iteration;
+package Iteration.Arrays;
 
 /*
     Day 1 | Problem 4
