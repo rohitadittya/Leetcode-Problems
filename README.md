@@ -34,9 +34,11 @@ Table of Contents
 
 ### Strings
 - [LC3: Longest Substring Without Repeating Characters | Medium](./sliding_window/Strings/LC3_LongestSubstringWithoutRepeatingChar.java)
+- [LC424: Longest Repeating Character Replacement | Medium](./sliding_window/Strings/LC424_LongestRepeatingCharReplacement.java)
 
 ### Sub-arrays
 - [LC209: Minimum Size Subarray Sum | Medium](./sliding_window/sub_arrays/LC209_MinSizeSubArrSum.java)
+- [LC1004: Max Consecutive Ones III | Medium](./sliding_window/sub_arrays/LC1004_MaxConsecutiveOnesIII.java)
 
 
 ## Frequency Map
