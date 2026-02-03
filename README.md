@@ -12,6 +12,12 @@ Table of Contents
   - [HashMap](#hashmap)
 - [Two Pointer](#two-pointer)
   - [Arrays](#arrays-2)
+- [Fast and Slow Pointers](#fast-and-slow-pointers)
+  - [Linked List](#linked-list)
+- [Reverse](#reverse)
+  - [Linked List](#linked-list-1)
+- [Monotonic Stack](#monotonic-stack)
+  - [Stack](#stack)
 
 
 ## Iteration
@@ -45,7 +51,7 @@ Table of Contents
 
 ### HashMap
 - [LC242: Valid Anagram | Easy](./frequency_map/hashmap/LC242_ValidAnagram.java)
-- [LC49: Group Anagram | Mediumm](./frequency_map/hashmap/LC49_GroupAnagrams.java)
+- [LC49: Group Anagram | Medium](./frequency_map/hashmap/LC49_GroupAnagrams.java)
 
 ## Two Pointer
 
@@ -53,3 +59,19 @@ Table of Contents
 - [LC11: Container with most water | Medium](./two_pointer/arrays/LC11_ContainerWithMostWater.java)
 - [LC42: Trapping Rainwater | Hard](./two_pointer/arrays/LC42_TrappingRainWater.java)
 
+
+## Fast and Slow Pointers
+
+### Linked List
+- [LC142: Linked List Cycle II | Medium](./fast_and_slow_ptr/LC142_LinkedListCycleII.java)
+
+## Reverse
+
+### Linked List
+- [LC92: Reverse Linked List II | Medium](./reverse/linkedlist/LC92_ReverseLinkedListII.java)
+
+## Monotonic Stack
+
+### Stack
+- [LC496: Next Greater Element I | Easy](./monotonic_stack/stack/LC496_NextGreaterElement1.java)
+- [LC739: Daily Temperatures | Medium](./monotonic_stack/stack/LC739_DailyTemperatures.java)
