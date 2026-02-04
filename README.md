@@ -18,6 +18,8 @@ Table of Contents
   - [Linked List](#linked-list-1)
 - [Monotonic Stack](#monotonic-stack)
   - [Stack](#stack)
+- [Binary Search](#binary-search)
+  - [Arrays](#arrays-3)
 
 
 ## Iteration
@@ -75,3 +77,8 @@ Table of Contents
 ### Stack
 - [LC496: Next Greater Element I | Easy](./monotonic_stack/stack/LC496_NextGreaterElement1.java)
 - [LC739: Daily Temperatures | Medium](./monotonic_stack/stack/LC739_DailyTemperatures.java)
+
+## Binary Search
+
+### Arrays
+- [LC875: Koko Loves Eating Bananas | Medium](./binary_search/arrays/LC875_KokoEatingBananas.java)
